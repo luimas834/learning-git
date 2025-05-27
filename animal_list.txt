@@ -1,0 +1,9 @@
+duck
+chicken
+tiger
+horse
+dog
+cow
+goat
+cat
+zebra
