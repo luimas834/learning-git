@@ -1,12 +1,12 @@
 =========================== 
-	duck
-	chicken
-	tiger
-	horse
-	dog
-	cow
-	goat
-	cat
-	zebra
+	duck-dhaka
+	chicken-cumilla
+	tiger-khulna
+	horse-chittagong
+	dog-africa
+	cow-india
+	goat-uttara
+	cat-toilet
+	zebra-floor
 =========================== 
 
